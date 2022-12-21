@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/project-whats-movie/static/css/main.55ea3885.css",
-    "main.js": "/project-whats-movie/static/js/main.55b7241d.js",
+    "main.css": "/project-whats-movie/static/css/main.6b969d91.css",
+    "main.js": "/project-whats-movie/static/js/main.728bad78.js",
     "index.html": "/project-whats-movie/index.html",
-    "main.55ea3885.css.map": "/project-whats-movie/static/css/main.55ea3885.css.map",
-    "main.55b7241d.js.map": "/project-whats-movie/static/js/main.55b7241d.js.map"
+    "main.6b969d91.css.map": "/project-whats-movie/static/css/main.6b969d91.css.map",
+    "main.728bad78.js.map": "/project-whats-movie/static/js/main.728bad78.js.map"
   },
   "entrypoints": [
-    "static/css/main.55ea3885.css",
-    "static/js/main.55b7241d.js"
+    "static/css/main.6b969d91.css",
+    "static/js/main.728bad78.js"
   ]
 }
